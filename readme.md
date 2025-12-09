@@ -1,8 +1,3 @@
-<div align="center">
-  <a href='https://www.leepcode.com.br/'>
-    <img width="100%" src="Logo_Branca e Laranja.png"/>
-  </a>
-</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF4500"/>
